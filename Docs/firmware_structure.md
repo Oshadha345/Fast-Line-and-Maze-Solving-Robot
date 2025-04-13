@@ -6,6 +6,7 @@ Code is written using Arduino IDE or PlatformIO.
 
 ## 📁 Folder Structure
 
+
 firmware/
 │
 ├── src/
