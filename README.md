@@ -71,12 +71,12 @@ A fast, intelligent line-follower robot for competitions using **ESP32**, **QRE 
 
 ## 📖 Documentation  
 
-- [`docs/pcb_build_setup.md`](docs/pcb_build_setup.md): 📐 PCB & layout planning  
-- [`docs/power_plan.md`](docs/power_plan.md): 🔋 Battery & voltage management  
-- [`docs/sensor_array.md`](docs/sensor_array.md): 🧭 Sensor geometry & logic  
-- [`docs/firmware_structure.md`](docs/firmware_structure.md): 💻 Arduino code setup  
-- [`docs/soldering_guide.md`](docs/soldering_guide.md): 🔧 PCB assembly tips  
-- [`docs/hardware_setup.md`](docs/harware_setup.md): ⚙️ Motors, regulators, and components  
+- [`Docs/pcb_build_setups.md`](Docs/pcb_build_setups.md): 📐 PCB & layout planning  
+- [`Docs/power_plan.md`](Docs/power_plan.md): 🔋 Battery & voltage management  
+- [`Docs/sensor_array.md`](Docs/sensor_array.md): 🧭 Sensor geometry & logic  
+- [`Docs/firmware_structure.md`](Docs/firmware_structure.md): 💻 Arduino code setup  
+- [`Docs/soldering_guide.md`](Docs/soldering_guide.md): 🔧 PCB assembly tips  
+- [`Docs/hardware_setup.md`](Docs/hardware_setup.md): ⚙️ Motors, regulators, and components  
 
 ---
 
