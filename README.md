@@ -1,0 +1,2 @@
+# Fast-Line + Maze Solving Robot
+ Phase 1 of this robot  is Advanced Line-Following Challenge, we have to  design a robot to navigate tracks with curves, sharp turns, dashed lines, and ramps. If we successfully completed it then move to the final round. Then starts the  phase 2 of the project. Autonomous Maze Navigation is the final stage.We have to  upgrade our  robot with Al for maze-solving, route optimization, and quick decision-making. The fastest, most efficient robots win.
